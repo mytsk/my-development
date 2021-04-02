@@ -18,7 +18,7 @@ Here's the list of what I _think_ I will go in to.
 * Docker
 * Kubernetes
 * Vagrant
-3. Language/Script/Cocde
+3. Language/Script/Code
 * yaml
 * PowerShell
 * Python
