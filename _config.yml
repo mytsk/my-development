@@ -12,7 +12,7 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Martin Nilsson # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: I am sys-admin and architect focusing on infracstructure and more recently Infrastructure as Code. Always hungry to keep learning. # add description
-social-twitter: @mytsse # add your Twitter handle
+social-twitter: mytsse # add your Twitter handle
 social-facebook: n/a # add your Facebook handle
 social-github: artemsheludko # add your Github handle
 social-linkedin: martin-sysadmin  # add your Linkedin handle
