@@ -19,6 +19,7 @@ Here's the list of what I _think_ I will go in to.
 * Kubernetes
 * Vagrant
 * Jenkins
+* Vault
 3. Language/Script/Code
 * yaml
 * PowerShell
