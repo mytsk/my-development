@@ -1,0 +1,28 @@
+# Basics 
+## Create a new Git project in existing folder
+```sh
+git init
+git add *
+git commit -m 'first commit'
+git branch -M main
+git remote add origin https://github.com/username/repo.git
+git push -u origin main
+```
+## Push existing repository to new repository 
+```sh
+git remote add origin https://github.com/username/repo.git
+git branch -M main
+git push -u origin main
+```
+## Commit changes to existing files
+```sh
+git commit -a -m 'commit comment'
+```
+## If you have created new files you need to add these first, followed by 'git commit'
+```sh
+git add *
+```
+## send to repository
+```sh
+git push 
+```
