@@ -19,8 +19,13 @@ git push -u origin main
 git commit -a -m 'commit comment'
 ```
 ## If you have created new files you need to add these first, followed by 'git commit'
+To add all files:
 ```sh
 git add *
+```
+To add a specific file:
+```sh
+git add path/to/filename
 ```
 ## send to repository
 ```sh
