@@ -10,16 +10,23 @@ My goal is so deep dive in different dev-opsish technologies and I will try to d
 Here's the list of what I _think_ I will go in to.
 
 1. Pre-reqs
-* SSH-keys
-* Git
+* SSH (specifically SSH-keys)
+
 2. Technologies
-* Ansible (and Tower)
-* Terraform
-* Docker
-* Kubernetes
-* Vagrant
-* Jenkins
-* Vault
+* Git (https://git-scm.com/)
+* Ansible (https://www.ansible.com/)
+* Terraform (https://www.hashicorp.com/products/terraform)
+* Docker (https://www.docker.com/)
+* Kubernetes (https://kubernetes.io/)
+* Rancher (https://rancher.com/)
+* Vagrant (https://www.vagrantup.com/)
+* Jenkins (https://www.jenkins.io/)
+* Vault (https://www.vaultproject.io/)
+* Packer (https://www.packer.io/)
+* Harbor (https://goharbor.io/)
+* Agro (all) (https://argoproj.github.io/)
+* AgroCD (https://argoproj.github.io/argo-cd/) 
+
 3. Language/Script/Code
 * yaml
 * PowerShell
@@ -28,10 +35,12 @@ Here's the list of what I _think_ I will go in to.
 * Ruby
 * Jinja2
 * Jekyll
+
 4. Security
 * STIX
 * SCC
 * OVAL
+
 5. PKI
 * Certificates
 * Certificate Authority
